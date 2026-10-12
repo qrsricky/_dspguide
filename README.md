@@ -2,7 +2,7 @@
 http://www.dspguide.com
 
 !NOTE: The book wasn't available neither on dspguide.com, nor on dsprelated.com but the kind person whose repo I forked from had it all up.
-Steven W. Smith, Ph.D. writes it's free so I don't bother too much. 
+Steven W. Smith, Ph.D. writes it's free, ... soooo I hope they don't mind. 
 
 ## Contents
 
